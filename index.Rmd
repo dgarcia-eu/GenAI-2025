@@ -1,6 +1,6 @@
 ---
 title: "From Digital Traces to Generative Agents"
-author: "David Garcia <br> *University of Konstanz <br> Barcelona Supercomputing Center <br>  Complexity Science Hub Vienna*"
+author: "David Garcia <br> *Social Data Science Lab, University of Konstanz <br><br> also at: Barcelona Supercomputing Center <br>  Complexity Science Hub Vienna*"
 date: "slides at dgarcia.eu/GenAI-2025"
 output:
   xaringan::moon_reader:
